@@ -41,7 +41,10 @@ A collection of Open Data images: https://ru.pinterest.com/iradche/open-data/
 Please divide into small groups.       
 Try to find interesting Open Data.       
 Write down your findings.       
-   
+
+### Tools
+Google Docs, Google Spreadsheets
+
 ### Summary
 
 What is Open Data?     
