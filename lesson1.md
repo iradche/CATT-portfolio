@@ -12,11 +12,12 @@ Irina Radchenko, Associate Professor at ITMO University (https://about.me/irina.
               
 ## Purpose and Objectives of this lesson      
 - To learn about Open Data
-- To be able to find useful Open datasets
+- To learn how to find useful open datasets
 
-## Your feedback
+## Lesson organization
 
-Please leave feedback here: https://docs.google.com/document/d/1OWX2VFmLXQ2ffvtgEaG7Ckvebijii6D5aMOCf9FokVk/edit#     
+Please leave feedback here: https://docs.google.com/document/d/1OWX2VFmLXQ2ffvtgEaG7Ckvebijii6D5aMOCf9FokVk/edit#       
+Lesson vocabulary: https://docs.google.com/document/d/1O_pLfw9SDl3YPAY4HY19vu_ROO8kro0Gqqnnac11vQw/pub          
 
 ## Open Data definitions
 
