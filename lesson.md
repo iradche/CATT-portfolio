@@ -1,19 +1,16 @@
-# Introduction
+# 'Introduction in Open Data' course. Lesson 1
 
 ### Instructor
 Irina Radchenko, Associate Professor at ITMO University (https://about.me/irina.radchenko, https://twitter.com/iradche)     
      
-### Roadmap for this lesson            
+## Roadmap for this lesson            
 1. Purposes and objectives      
 2. Open Data definitions     
 3. Mini Data Expedition      
 4. Summary      
 5. Assignment
-      
-     
-## Introduction into Open Data
-        
-### Purpose and Objectives of this lesson      
+              
+## Purpose and Objectives of this lesson      
 - To learn about Open Data
 - To be able to find useful Open datasets
 
@@ -43,7 +40,7 @@ A collection of Open Data images: https://ru.pinterest.com/iradche/open-data/
 4. Write down your findings here: https://docs.google.com/document/d/1OWX2VFmLXQ2ffvtgEaG7Ckvebijii6D5aMOCf9FokVk/edit# or here: https://hackpad.com/CESL-Data-Expedition-v9ou25Zy8I1. 
 
     
-Examples of the topics:     
+### Examples of the topics     
 - Agriculture
 - Climate
 - Consumer
@@ -59,12 +56,13 @@ Examples of the topics:
 - Public Safety
 - Science & Research     
 
-List of Open Data portals:
+### List of Open Data portals
 - US Open Data portal: http://data.gov/
 - UK Open Data portal: http://data.gov.uk/
 
-30 Places to Find Open Data on the Web: http://www.scribblelive.com/blog/2012/03/30/data-sources/     
-A comprehensive list of 2600+ Open Data Portals around the world: https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/      
+### List of useful links
+- 30 Places to Find Open Data on the Web: http://www.scribblelive.com/blog/2012/03/30/data-sources/     
+- A comprehensive list of 2600+ Open Data Portals around the world: https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/      
 
 ### Tools
 Google Docs, Google Spreadsheets, HackPad.
