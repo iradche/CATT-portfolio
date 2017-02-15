@@ -44,8 +44,8 @@ A collection of Open Data images: https://ru.pinterest.com/iradche/open-data/
 1. Divide into small groups (2-3 learners).      
 2. Choose a topic for your research
 3. Explore Open Data portals
-4. Find Open Datasets        
-5. Write down your findings here: https://hackpad.com/CESL-Data-Expedition-v9ou25Zy8I1. 
+4. Find Open Datasets and write down your findings here: https://hackpad.com/CESL-Data-Expedition-v9ou25Zy8I1. 
+5. Discuss your findings
 
     
 ### Examples of the topics     
