@@ -1,4 +1,4 @@
-# 'Introduction in Open Data' course. Lesson 1
+# 'Introduction to Open Data' course. Lesson 1
 
 ### Instructor
 Irina Radchenko, Associate Professor at ITMO University (https://about.me/irina.radchenko, https://twitter.com/iradche)     
@@ -34,10 +34,12 @@ A collection of useful links on Open Data and Data Journalism: https://data-jour
 A collection of Open Data images: https://ru.pinterest.com/iradche/open-data/             
      
 ### Instructions
-1. Divide into small groups (2-3 learners).       
-2. Choose a topic.
-3. Find definite Open Data.       
-4. Write down your findings here: https://docs.google.com/document/d/1OWX2VFmLXQ2ffvtgEaG7Ckvebijii6D5aMOCf9FokVk/edit# or here: https://hackpad.com/CESL-Data-Expedition-v9ou25Zy8I1. 
+
+1. Divide into small groups (2-3 learners).      
+2. Choose a topic for your research
+3. Explore Open Data portals
+4. Find Open Datasets        
+5. Write down your findings here: https://docs.google.com/document/d/1OWX2VFmLXQ2ffvtgEaG7Ckvebijii6D5aMOCf9FokVk/edit# or here: https://hackpad.com/CESL-Data-Expedition-v9ou25Zy8I1. 
 
     
 ### Examples of the topics     
