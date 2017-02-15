@@ -22,7 +22,7 @@ Lesson vocabulary: https://docs.google.com/document/d/1O_pLfw9SDl3YPAY4HY19vu_RO
 
 ## Open Data definitions
 
-Slide deck: https://github.com/iradche/UA-training/blob/master/lesson_intro.pdf        
+Slide deck: https://github.com/iradche/UA-training/blob/master/lesson_intro.pdf (or http://www.slideshare.net/iradche/lesson-intro-introduction-to-open-data)       
 
 ## Mini Data Expedition
 
