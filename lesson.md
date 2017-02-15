@@ -8,6 +8,7 @@ Irina Radchenko, Associate Professor at ITMO University (https://about.me/irina.
 2. Open Data definitions     
 3. Mini Data Expedition      
 4. Summary      
+5. Assignment
       
      
 ## Introduction into Open Data
