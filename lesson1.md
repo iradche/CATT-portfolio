@@ -1,6 +1,6 @@
 # 'Introduction to Open Data' course. Lesson 1
 
-### Instructor
+### The instructor
 Irina Radchenko, Associate Professor at ITMO University (https://about.me/irina.radchenko, https://twitter.com/iradche)     
      
 ## Roadmap for this lesson            
@@ -73,7 +73,7 @@ A collection of Open Data images: https://ru.pinterest.com/iradche/open-data/
 - 30 Places to Find Open Data on the Web: http://www.scribblelive.com/blog/2012/03/30/data-sources/     
 - A comprehensive list of 2600+ Open Data Portals around the world: https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/      
 
-### Tools
+### Tools used in this lesson
 Google Docs, Google Spreadsheets, HackPad, Google Forms.
 
 ### Summary
