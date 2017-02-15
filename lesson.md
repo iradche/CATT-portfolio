@@ -38,9 +38,12 @@ A collection of Open Data images: https://ru.pinterest.com/iradche/open-data/
      
 ### Instructions
 1. Divide into small groups.       
-2. Choose an interesting topic.
-     
-Examples:     
+2. Choose **an interesting topic**.
+3. Find definite Open Data.       
+4. Write down your findings here: https://docs.google.com/document/d/1OWX2VFmLXQ2ffvtgEaG7Ckvebijii6D5aMOCf9FokVk/edit# or here: https://hackpad.com/CESL-Data-Expedition-v9ou25Zy8I1. 
+
+    
+Examples of **the interesting topics**:     
 - Agriculture
 - Climate
 - Consumer
@@ -54,10 +57,9 @@ Examples:
 - Maritime
 - Ocean
 - Public Safety
-- Science & Research
-     
-3. Find definite Open Data.       
-4. Write down your findings here: https://docs.google.com/document/d/1OWX2VFmLXQ2ffvtgEaG7Ckvebijii6D5aMOCf9FokVk/edit# or here: https://hackpad.com/CESL-Data-Expedition-v9ou25Zy8I1.            
+- Science & Research     
+
+           
 
 ### Tools
 Google Docs, Google Spreadsheets, HackPad.
