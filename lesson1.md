@@ -71,7 +71,7 @@ A collection of Open Data images: https://ru.pinterest.com/iradche/open-data/
 - A comprehensive list of 2600+ Open Data Portals around the world: https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/      
 
 ### Tools
-Google Docs, Google Spreadsheets, HackPad.
+Google Docs, Google Spreadsheets, HackPad, Google Forms.
 
 ### Summary
 
