@@ -67,6 +67,7 @@ A collection of Open Data images: https://ru.pinterest.com/iradche/open-data/
 ### List of Open Data portals
 - US Open Data portal: http://data.gov/
 - UK Open Data portal: http://data.gov.uk/
+- RF Open Data portal: http://data.gov.ru
 
 ### List of useful links
 - 30 Places to Find Open Data on the Web: http://www.scribblelive.com/blog/2012/03/30/data-sources/     
