@@ -1,6 +1,6 @@
 # Introduction
 
-Teacher:
+Instructor:
 Irina Radchenko, Associate Professor at ITMO University (https://about.me/irina.radchenko, https://twitter.com/iradche)     
 
 ## Syllabus     
