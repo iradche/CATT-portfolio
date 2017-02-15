@@ -14,6 +14,10 @@ Irina Radchenko, Associate Professor at ITMO University (https://about.me/irina.
 - To learn about Open Data
 - To be able to find useful Open datasets
 
+## Your feedback
+
+Please leave feedback here: https://docs.google.com/document/d/1OWX2VFmLXQ2ffvtgEaG7Ckvebijii6D5aMOCf9FokVk/edit#     
+
 ## Open Data definitions
 
 Slide deck: https://github.com/iradche/UA-training/blob/master/lesson_intro.pdf        
@@ -39,7 +43,7 @@ A collection of Open Data images: https://ru.pinterest.com/iradche/open-data/
 2. Choose a topic for your research
 3. Explore Open Data portals
 4. Find Open Datasets        
-5. Write down your findings here: https://docs.google.com/document/d/1OWX2VFmLXQ2ffvtgEaG7Ckvebijii6D5aMOCf9FokVk/edit# or here: https://hackpad.com/CESL-Data-Expedition-v9ou25Zy8I1. 
+5. Write down your findings here: https://hackpad.com/CESL-Data-Expedition-v9ou25Zy8I1. 
 
     
 ### Examples of the topics     
@@ -71,9 +75,11 @@ Google Docs, Google Spreadsheets, HackPad.
 
 ### Summary
 
-What is Open Data?     
-Where can we find them?  
-
+- What is Open Data?     
+- What is Open licenses?
+- What is machine-readable format?
+- Where can we find Open Data?  
+ 
 ### Assignment
 
 Fill out this quiz: https://goo.gl/forms/gmbqOVeNDd528Srv2.
