@@ -64,7 +64,11 @@ Google Docs, Google Spreadsheets, HackPad.
 ### Summary
 
 What is Open Data?     
-Where can we find them?      
+Where can we find them?  
+
+### Assignment
+
+Fill out this quiz: https://goo.gl/forms/gmbqOVeNDd528Srv2.
 
 
 
