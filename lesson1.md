@@ -39,12 +39,12 @@ A collection of articles: http://www.scoop.it/t/open-knowledge
 A collection of useful links on Open Data and Data Journalism: https://data-journalism.zeef.com/irina.radchenko#_=_     
 A collection of Open Data images: https://ru.pinterest.com/iradche/open-data/             
      
-### Instructions
+### Data Expedition Instructions
 
 1. Divide into small groups (2-3 learners).      
-2. Choose a topic for your research
-3. Explore Open Data portals
-4. Find Open Datasets and write down your findings here: https://hackpad.com/CESL-Data-Expedition-v9ou25Zy8I1. 
+2. Choose a topic for your research (one for a group)
+3. Explore Open Data portals (2-3 - OK)
+4. Find open datasets and write down your findings here: https://hackpad.com/CESL-Data-Expedition-v9ou25Zy8I1 (4-5 datasets - OK) 
 5. Discuss your findings
 
     
