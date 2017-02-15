@@ -3,7 +3,7 @@
 Instructor:
 Irina Radchenko, Associate Professor at ITMO University (https://about.me/irina.radchenko, https://twitter.com/iradche)     
      
-Roadmap of this lesson:      
+Roadmap for this lesson:      
 1. Purposes and objectives      
 2. Open Data definitions     
 3. Mini Data Expedition      
@@ -22,7 +22,6 @@ Objectives of this lesson:
 ## Open Data definitions
 
 Slide deck:   
-
 
 ## Mini Data Expedition
 
@@ -45,7 +44,8 @@ Write down your findings.
    
 ### Summary
 
-
+What is Open Data?     
+Where we may find them?      
 
 
 
