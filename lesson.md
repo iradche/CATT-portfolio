@@ -37,13 +37,13 @@ A collection of useful links on Open Data and Data Journalism: https://data-jour
 A collection of Open Data images: https://ru.pinterest.com/iradche/open-data/             
      
 ### Instructions
-1. Divide into small groups.       
-2. Choose **an interesting topic**.
+1. Divide into small groups (2-3 learners).       
+2. Choose a topic.
 3. Find definite Open Data.       
 4. Write down your findings here: https://docs.google.com/document/d/1OWX2VFmLXQ2ffvtgEaG7Ckvebijii6D5aMOCf9FokVk/edit# or here: https://hackpad.com/CESL-Data-Expedition-v9ou25Zy8I1. 
 
     
-Examples of **the interesting topics**:     
+Examples of the topics:     
 - Agriculture
 - Climate
 - Consumer
@@ -59,7 +59,12 @@ Examples of **the interesting topics**:
 - Public Safety
 - Science & Research     
 
-           
+List of Open Data portals:
+- US Open Data portal: http://data.gov/
+- UK Open Data portal: http://data.gov.uk/
+
+30 Places to Find Open Data on the Web: http://www.scribblelive.com/blog/2012/03/30/data-sources/     
+A comprehensive list of 2600+ Open Data Portals around the world: https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/      
 
 ### Tools
 Google Docs, Google Spreadsheets, HackPad.
