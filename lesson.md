@@ -11,12 +11,8 @@ Irina Radchenko, Associate Professor at ITMO University (https://about.me/irina.
       
      
 ## Introduction into Open Data
-### Syllabus
-
-### Purpose      
-To learn how to work with Open Data     
-     
-### Objectives of this lesson      
+        
+### Purpose and Objectives of this lesson      
 - To learn about Open Data
 - To be able to find useful Open datasets
 
