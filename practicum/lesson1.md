@@ -11,9 +11,9 @@ Irina Radchenko, Associate Professor at ITMO University (https://about.me/irina.
 5. Assignment
               
 ## Purpose and Objectives of this lesson      
-- To learn about Open Data
-- To learn how to find useful open datasets
-- To learn English terms in Open Data
+- To be able to speak about Open Data
+- To be able to find useful open datasets
+- To be able to use English terms in Open Data
 
 ## Lesson organization
 
@@ -60,7 +60,6 @@ A collection of Open Data images: https://ru.pinterest.com/iradche/open-data/
 - Local Government
 - Manufacturing
 - Maritime
-- Ocean
 - Public Safety
 - Science & Research     
 
